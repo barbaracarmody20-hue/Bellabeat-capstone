@@ -50,11 +50,4 @@ The repository includes:
 
 
 
-## How to View
-1. Download the ZIP file (if included) to access all files.
-2. Open the PDF report and presentation for a complete overview.
-3. Review screenshots and charts included for detailed insights.
-
----
-
 Thank you for reviewing my Bellabeat Capstone Project!
